@@ -1,6 +1,9 @@
 # 💫 About Me:
-👨‍💻 Passionate Coder<br>📚 Student At IIT (BHU) VARANASI <br> Full stack Web Developer <br>⚡ intrested in problems solving.
 
+👨‍💻 **Passionate Coder** <br>
+🎓 **Student at IIT (BHU), Varanasi** <br>
+💻 **Full Stack Web Developer** <br>
+🧩 **Interested in Problem Solving**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/G Rambahdur) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ank_ush_0911) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rambahdur-diwakar-849a203b9) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rambahadur26168) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rambahadur.gusknp2024@gmail.com) 
